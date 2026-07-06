@@ -1,0 +1,2 @@
+# 9682526da353059e-content-creation-survey-and-fe
+manually copying data between apps and rebuilding the same process every time costs you real money. This n8n automation workflow pays for itself in one use.  Connects to 400+ apps via n8n's built-in integrations — no custom code needed. Built for production: error handling, retry logic, and failure notifications included.  ## What's Included  - Con
